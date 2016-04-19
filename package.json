@@ -1,0 +1,28 @@
+{
+  "name": "ignore-props",
+  "version": "1.0.1",
+  "description": "Ignore specific props",
+  "keywords": [
+    "react",
+    "ignore",
+    "props",
+    "spread"
+  ],
+  "main": "build/index.js",
+  "author": "Marc Binder <marcandrebinder@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrBoolean/ignore-props.git"
+  },
+  "browserify": {
+    "transform": [
+      "babelify"
+    ]
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "react-fatigue-dev": "tj/react-fatigue-dev",
+    "should": "^8.3.1"
+  }
+}
