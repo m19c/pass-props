@@ -1,10 +1,10 @@
 {
-  "name": "ignore-props",
+  "name": "pass-props",
   "version": "1.0.1",
   "description": "Ignore specific props",
   "keywords": [
     "react",
-    "ignore",
+    "pass",
     "props",
     "spread"
   ],
@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MrBoolean/ignore-props.git"
+    "url": "https://github.com/MrBoolean/pass-props.git"
   },
   "browserify": {
     "transform": [
